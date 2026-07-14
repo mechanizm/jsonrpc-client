@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Archived legacy fork:** This fork is no longer maintained. It is preserved for
+> historical reference and is read-only. Do not use it for new projects; use it
+> at your own risk.
+
 # JSONRPC::Client
 
 Simple JSON-RPC 2.0 client implementation. See the [specification](http://www.jsonrpc.org/specification).
